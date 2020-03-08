@@ -1,22 +1,18 @@
 import React, {Component} from 'react'
 
 
-function Button(props) {
+function Activities(props) {
     
     return(
 
-        <div className='Button1'>
-            <button onClick={props.decrement}className="Previous"> Prev</button>
-
-            <div className='Button2'>
-            <button  onClick={props.increment}  className="Next">Next</button>
-            </div>
+        <div>
 
 
+            
         </div>
     )
 
     
 }
-    export default Activities.js
+    export default Activities
 
