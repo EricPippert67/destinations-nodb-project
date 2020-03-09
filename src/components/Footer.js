@@ -3,7 +3,7 @@ import React from 'react'
 let Footer =(props)=>{
     return(
 
-        <div  >
+        <div className='footer-button'  >
            { !props.editing ?
         (   <div className='button-container'><button onClick={props.decrement}className="Previous"> Prev</button>
         <button onClick={props.toggleChange} className='Edit'>Edit</button>

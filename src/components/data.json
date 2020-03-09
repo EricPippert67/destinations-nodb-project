@@ -4,7 +4,7 @@
       "city": "Paris",
       "img":"https://travel.home.sndimg.com/content/dam/images/travel/fullset/2013/02/06/40/top-10-vacation-spots-paris.rend.hgtvcom.1280.960.suffix/1491591583118.jpeg",
      "stateCountry": "France",
-      "whatToDo": [" Le Petit Déjeuner", "Notre-Dame de Paris",
+      "whatToDo": [ "Arc de Triomphe", "Le Petit Déjeuner", "Notre-Dame de Paris",
       "Musée du Louvre", "Arc de Triomphe", "Eiffel Tower"],
       "placesToEat": ["Le Jules Verne","Les Climats", "L'Assaggio",
       "Brasserie Bellanger", "Hotel Particulier Montmartre"],
@@ -87,8 +87,8 @@
         "city": "Orlando",
         "img":"https://travel.home.sndimg.com/content/dam/images/travel/fullset/2013/02/06/27/top-10-vacation-spots-orlando.rend.hgtvcom.1280.960.suffix/1491591583135.jpeg",
        "stateCountry": "Florida",
-        "whatToDo": ["Universal Orlando", "ICON Park",
-        "SeaWorld Orlando", "Madame Tussauds", "Lake Eola Park"],
+        "whatToDo": ["SeaWorld Orlando", "Universal Orlando", "ICON Park",
+         "Madame Tussauds", "Lake Eola Park"],
         "placesToEat": ["The Melting Pot","The Oceanaire Seafood Room", "Mrs Potato Restaurant", "Border Grill Fresh-Mex", "NYPD Pizza Metro West"],
         "whereToStay": [
           "Loews Royal Pacific Resort","Universal's Cabana Bay Beach Resort","Loews Portofino Bay Hotel at Universal Orlando","Loews Sapphire Falls Resort at Universal Orlando","Universal's Aventura Hotel"
@@ -125,7 +125,7 @@
         "city": "Branson",
         "img":"https://travel.home.sndimg.com/content/dam/images/travel/fullset/2013/02/06/0f/top-10-vacation-spots-branson.rend.hgtvcom.1280.960.suffix/1491591583328.jpeg",
        "stateCountry": "Missouri",
-        "whatToDo": ["Escape Code", "Ripley's Believe it or Not!",
+        "whatToDo": ["Ripley's Believe it or Not!", "Escape Code",
         "Branson Ferris Wheel", "HollyWood Wax Museum", "The Butterfly Palace and Rainforest Adventure"],
         "placesToEat": ["Danna's BBQ and Burger Shop","Farmhouse Restaurant", "Billy Bob's Dairy Land", "Rocco's Pizza", "Gettin Basted"],
         "whereToStay": [

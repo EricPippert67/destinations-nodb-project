@@ -26,10 +26,10 @@
   color: black;
 }
 .main{
-  height: 750px;
-  background-color:green;
+  height: 800px;
   display: flex;
   justify-content: space-between;
+  background-color: bisque;
  
 
 }
@@ -43,15 +43,16 @@
 }
 .sidebar{
   height: 700px;
-  background-color: tomato;
+  background-color:goldenrod;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: space-evenly;
-  font-size: 22px;
+  font-size: 20px;
   font-family: sans-serif;
   font-weight: 700;
   padding: 20px;
+  border: 10px solid green;
 }
 .sidebar1{
 height: 100px;
@@ -59,7 +60,7 @@ height: 100px;
   
 }
 .sidebar h1{
-  font-size: 25px;
+  font-size: 22px;
   text-decoration: underline;
 }
 .places-container{
@@ -80,7 +81,7 @@ display: flex;
 align-items: center;
 justify-content:center;
 overflow: visible;
-background-color: greenyellow;
+
 
 
 
@@ -90,10 +91,8 @@ background-color: greenyellow;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  height: 300px;
-  background-color: burlywood;
-  box-sizing: border-box;
-  border: 5px;
+  height: 270px;
+  border: 10px solid black;
   
 
 }
@@ -101,13 +100,15 @@ background-color: greenyellow;
   align-items: flex-start;
   height: 50px;
   width: 20%;
-  background-color: blue;
+  
+
 
 }
 .places-img{
   height: 350px;
-  width: 50%;
+  width: 60%;
   padding: 1px;
+  border: 10px solid ;
 }
 .places-title{
   font-size: 20px;
@@ -135,7 +136,7 @@ width: 70%;
 display: flex;
 box-sizing: border-box;
 justify-content: space-between;
-background-color: indianred;
+
 
 }
 
@@ -159,9 +160,12 @@ background-color:white
   height: 30px;
   font-size: 20px;
 }
-.footer{
-  height: 50px;
-  width: 100%;
-  background-color: indianred;
-  justify-content: space-between;
+.footer-button{
+  height: 45px;
+  width: 70%;
+ display: flex;
+  justify-content: space-evenly;
+  padding: 10px;
+  background-color: bisque;
+  
 }
