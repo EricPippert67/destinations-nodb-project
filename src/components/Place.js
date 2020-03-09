@@ -15,22 +15,22 @@ import './App.css'
                 <img src={props.info.img} className='places-img'/>
             </div>
             <div className='info-container'>
-                <h1 className='places-title'>city:    {props.info.city}</h1>
+                <h2 className='places-title'>City:    {props.info.city}</h2>
             
-                <h1 className='places-title'>state-country:            {props.info.stateCountry} </h1>             
+                <h1 className='places-title'>State/Country:            {props.info.stateCountry} </h1>             
             
             
                 
-                <h1 className='places-title'> whatToDo:  {props.info.whatToDo[0]},  {props.info.whatToDo[1]},  {props.info.whatToDo[2]},  {props.info.whatToDo[3]},   {props.info.whatToDo[4]}</h1>                
+                <h1 className='places-title'> What to do:  {props.info.whatToDo[0]}</h1>
            
               
-                <h1 className='places-title'>placesToEat:  {props.info.placesToEat[0]},  {props.info.placesToEat[1]},  {props.info.placesToEat[2]},  {props.info.placesToEat[3]},  {props.info.placesToEat[4]}</h1>
+                <h1 className='places-title'>places to eat:{props.info.placesToEat[0]} </h1>
            
-                <h1 className='places-title' >whereToStay:  {props.info.whereToStay[0]}, {props.info.whereToStay[1]},  {props.info.whereToStay[2]},  {props.info.whereToStay[3]},  {props.info.whereToStay[4]}</h1>
+                <h1 className='places-title' >Where to stay:  {props.info.whereToStay[0]}</h1>
                 </div>
-            
+            </div>    
 
-        </div>    
+            
 
 
         )
