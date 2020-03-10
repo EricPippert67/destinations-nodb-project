@@ -16,6 +16,4 @@ app.delete('/api/destination/:id',dctrl.deleteDestination)
 
 
 
-
-
 app.listen(port, ()=> console.log(`Server running I think on Port: ${port}`));

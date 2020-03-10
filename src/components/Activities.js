@@ -7,7 +7,9 @@ function Activities(props) {
 
         <div>
 
-
+<div>
+<title>Destinations</title>
+</div>
             
         </div>
     )

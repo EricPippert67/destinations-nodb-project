@@ -26,10 +26,11 @@
   color: black;
 }
 .main{
-  height: 800px;
+  height: 825px;
   display: flex;
   justify-content: space-between;
   background-color: bisque;
+
  
 
 }
@@ -85,6 +86,7 @@ overflow: visible;
 
 
 
+
 }
 .info-container{
   display: flex;
@@ -93,7 +95,7 @@ overflow: visible;
   flex-direction: column;
   height: 270px;
   border: 10px solid black;
-  
+
 
 }
 .places-counter{
